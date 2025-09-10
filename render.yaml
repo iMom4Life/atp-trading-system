@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: atp-v3-backend
-    plan: free
-    docker:
-      dockerfilePath: Dockerfile
